@@ -1,2 +1,3 @@
 # myself
-Live Link https://talarilokesh201.github.io/CodeAplha_Portfolio_Website/
+Live link 
+Live Link https://github.com/derangulalakshmipriyanka/CodeAlpha_Portfolio_Website.git
